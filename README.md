@@ -1,5 +1,16 @@
 # AI Music Request（WordPressオリジナルテーマ）
 
+## Screenshots
+
+### Request Screen
+![Request Screen](screenshots/screen-request.png)
+
+### Input Example
+![Input Example](screenshots/screen-input.png)
+
+### Result Screen
+![Result Screen](screenshots/screen-result.png)
+
 ## 概要
 WordPressのオリジナルテーマとして制作した、
 AI楽曲リクエスト用のデモアプリです。
